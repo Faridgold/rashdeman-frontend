@@ -2,3 +2,4 @@
 "# Rashdeman Frontend" 
 "# Test Deploy" 
 "# Fix Cache" 
+"# Fix Cache and Permission" 
