@@ -35,8 +35,7 @@ function App() {
   const [charities, setCharities] = useState([]);
 
   const isLocalhost = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
-  const backendUrl = 'https://irrelevant-martha-faryas-1395e69c.koyeb.app';
-  
+  const backendUrl = 'https://rashdeman-backend.liara.run';   
 
   const fetchProfile = async () => {
     try {
